@@ -16,6 +16,20 @@ This time we track "Biden" word to know what the world thinks of him!
 Thanks to the Twitter Developer account you can stream real-time tweets. They are continuously saved on the PostgreSQL databases on the Heroku, which apart from storing the data in cloud enables you to run an application written in Python (Dash & Plotly).
 
 
+#### Files used in app development
+
+1. app.py - Application itself with dashboards and data transformations
+2. scraping.py - Script saving stream of twitter data into ProsgreSQL database on Heroku cloud
+3. scraping_server.py - additional file helping to run an application
+4. runtime.txt - version of the python used
+5. requirements.txt - versions of packages used
+6. Procfile - file specifying two actions (streaming and updating dashboard)
+
+
+
+
+
+
 
 
 
