@@ -1,14 +1,15 @@
 # Real-time-sentiment-twitter-analysis
 
-<br/><br/>
+
+Link to an application: https://twitter-dashbourd.herokuapp.com/.
 
 #### Aim
 
-Twitter data can provide us with real-time opinions on a given topics/brand/company and in most cases with low costs.
+Twitter data can provide us with real-time general opinions on a given topics/brand/company. It's the next generation of survey-based analyses.
 This is a perfect way to assess the image of a company, when you run it or want to invest in it.
 
 Based on the sentiment analysis of tweets we can check how many of them use: negative, neutral or positive words, across time
-This time we track "Biden" word to know what the world thinks of him!
+This time we track "Biden" word to know what the world thinks of him! 
 
 #### Execution of an app
 
