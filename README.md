@@ -1,7 +1,7 @@
 # Real-time-sentiment-twitter-analysis
 
 
-Link to an application: https://twitter-dashbourd.herokuapp.com/.
+Link to an application: https://twitter-dashbourd.herokuapp.com/. (You have to wait around for ~20 second for the app to start and then refresh)
 
 #### Aim
 
@@ -11,7 +11,7 @@ This is a perfect way to assess the image of a company, when you run it or want 
 Based on the sentiment analysis of tweets we can check how many of them use: negative, neutral or positive words, across time
 This time we track "Biden" word to know what the world thinks of him! 
 
-#### Execution of an app
+#### Execution of the app
 
 Thanks to the Twitter Developer account you can stream real-time tweets. They are continuously saved on the PostgreSQL databases on the Heroku, which apart from storing the data in cloud enables you to run an application written in Python (Dash & Plotly).
 
