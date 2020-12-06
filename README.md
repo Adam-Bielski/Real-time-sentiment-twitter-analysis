@@ -1,7 +1,7 @@
 # Real-time-sentiment-twitter-analysis
 
 
-Link to an application: https://twitter-dashbourd.herokuapp.com/. (You have to wait around ~20 second for the app to start; afterwards refresh the website)
+Link to an application: https://twitter-dashbourd.herokuapp.com/. (You have to wait around a minute for the app to start and collect enought tweets for dashboard to build; afterwards refresh the website)
 
 #### Aim
 
